@@ -1,0 +1,14 @@
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\bin\Debug\net9.0\CSharpLessons.exe
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\bin\Debug\net9.0\CSharpLessons.deps.json
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\bin\Debug\net9.0\CSharpLessons.runtimeconfig.json
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\bin\Debug\net9.0\CSharpLessons.dll
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\bin\Debug\net9.0\CSharpLessons.pdb
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\obj\Debug\net9.0\CSharpLessons.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\obj\Debug\net9.0\CSharpLessons.AssemblyInfoInputs.cache
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\obj\Debug\net9.0\CSharpLessons.AssemblyInfo.cs
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\obj\Debug\net9.0\CSharpLessons.csproj.CoreCompileInputs.cache
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\obj\Debug\net9.0\CSharpLessons.dll
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\obj\Debug\net9.0\refint\CSharpLessons.dll
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\obj\Debug\net9.0\CSharpLessons.pdb
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\obj\Debug\net9.0\CSharpLessons.genruntimeconfig.cache
+D:\JetBrains Rider 2025.1.1\projects\CSharpLessons\obj\Debug\net9.0\ref\CSharpLessons.dll
